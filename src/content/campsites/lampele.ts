@@ -210,7 +210,7 @@ const lampele: CampsiteConfig = {
     moreCount: 20,
     images: [
       { src: `${IMG}/gallery-d2f4d6dcba.webp`, alt: "Seecamping Lampele am Ufer des Ossiacher Sees mit Bergkulisse" },
-      { src: `${IMG}/gallery-43665b619b.webp`, alt: "Gratis Erlebnis Card für Gäste am Ossiacher See" },
+      { src: `${IMG}/gallery-05200b8c61.webp`, alt: "Liegewiese mit Spielplatz und Badesteg direkt am Ossiacher See beim Seecamping Lampele" },
       { src: `${IMG}/gallery-ea04f2e260.webp`, alt: "Panoramablick über den Ossiacher See in Kärnten" },
       { src: `${IMG}/gallery-e442e5b62d.webp`, alt: "Mobilheim am Seecamping Lampele – gepflegte Anlage mit Veranda im Abendlicht" },
     ],
